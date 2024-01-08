@@ -1,4 +1,4 @@
-# scrape-movies-imdb
+# imdb-scraper
 
 ## Description
 
@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python main.py
+python scraper.py
 ```
 
 ## Contributing
